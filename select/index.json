@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ののの音々ネ！",
+  "base_artist": "音ノ乃のの",
+  "createdAt": "2026-03-08T08:32:46.720828Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ののの音々ネ!",
+      "artist": "音ノ乃のの",
+      "has_synced": false,
+      "path": "select/pl_01_ののの音々ネ!_音ノ乃のの.txt"
+    }
+  ]
+}
